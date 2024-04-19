@@ -88,14 +88,14 @@ global.axios = axios
 global.moment = moment	
 
 global.packname = '𝙳𝙾𝙽𝙸𝙽𝙷𝙰-𝙼𝙳'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.author = '𝙳𝙾𝙽𝙸𝙽𝙷𝙰'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['18059196237', 'Gata Dios 💻', 1], 
+['18059196237', '𝙱𝙸𝙶 𝙼𝙲 𝙾𝙵𝙲 💻', 1], 
 ['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
+['59894808483', '𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
 ['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
 
 global.mail = '' //agrega tú correo
@@ -106,7 +106,7 @@ global.country = '' //agrega tú país ejemplo: 🇪🇨
 global.vs = '1.4.0'
 global.vsJB = '4.5'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.gt = '𝙳𝙾𝙽𝙸𝙽𝙷𝙰-𝙼𝙳'
 global.yt = 'https://youtube.com/@gatadios'
 global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
 global.ig = 'https://www.instagram.com/gata_dios'
@@ -129,8 +129,8 @@ global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
 global.paypal = 'https://paypal.me/OficialGD'
 global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = '𝙳𝙾𝙽𝙸𝙽𝙷𝙰-𝙼𝙳 🌻 : 𝙳𝙾𝙽𝙸𝙽𝙷𝙰'
+global.igfg = '𝙳𝙾𝙽𝙸𝙽𝙷𝙰-𝙼𝙳'
 global.nomorown = owner[0][0]
 
 global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
